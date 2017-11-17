@@ -664,23 +664,39 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD:Pet/ProjetoConsole/obj/project.assets.json
     "C:\\Users\\47518534819\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\43692939876\\.nuget\\packages\\": {},
+>>>>>>> 0fbddd6ca0436c288cf3b4c6d31f1b63599960d8:ProjetoConsole/obj/project.assets.json
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD:Pet/ProjetoConsole/obj/project.assets.json
       "projectUniqueName": "c:\\Users\\47518534819\\Desktop\\sistema_petshop\\Animalindo\\Pet\\ProjetoConsole\\ProjetoConsole.csproj",
       "projectName": "ProjetoConsole",
       "projectPath": "c:\\Users\\47518534819\\Desktop\\sistema_petshop\\Animalindo\\Pet\\ProjetoConsole\\ProjetoConsole.csproj",
       "packagesPath": "C:\\Users\\47518534819\\.nuget\\packages\\",
       "outputPath": "c:\\Users\\47518534819\\Desktop\\sistema_petshop\\Animalindo\\Pet\\ProjetoConsole\\obj\\",
+=======
+      "projectUniqueName": "c:\\Users\\43692939876\\Desktop\\Projetos\\Animalindo\\ProjetoConsole\\ProjetoConsole.csproj",
+      "projectName": "ProjetoConsole",
+      "projectPath": "c:\\Users\\43692939876\\Desktop\\Projetos\\Animalindo\\ProjetoConsole\\ProjetoConsole.csproj",
+      "packagesPath": "C:\\Users\\43692939876\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\43692939876\\Desktop\\Projetos\\Animalindo\\ProjetoConsole\\obj\\",
+>>>>>>> 0fbddd6ca0436c288cf3b4c6d31f1b63599960d8:ProjetoConsole/obj/project.assets.json
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
+<<<<<<< HEAD:Pet/ProjetoConsole/obj/project.assets.json
         "C:\\Users\\47518534819\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+        "C:\\Users\\43692939876\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 0fbddd6ca0436c288cf3b4c6d31f1b63599960d8:ProjetoConsole/obj/project.assets.json
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"

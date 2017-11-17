@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "util/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/util.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/util.dll": {}
+        }
       }
     }
   },
@@ -169,31 +179,53 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "util/1.0.0": {
+      "type": "project",
+      "path": "../util/util.csproj",
+      "msbuildProject": "../util/util.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.0"
+      "NETStandard.Library >= 2.0.0",
+      "util >= 1.0.0"
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\47518534819\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\lucas_8ymmky\\.nuget\\packages\\": {},
+>>>>>>> 0fbddd6ca0436c288cf3b4c6d31f1b63599960d8
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "c:\\Users\\47518534819\\Desktop\\sistema_petshop\\Animalindo\\Pet\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
       "projectPath": "c:\\Users\\47518534819\\Desktop\\sistema_petshop\\Animalindo\\Pet\\Dominio\\Dominio.csproj",
       "packagesPath": "C:\\Users\\47518534819\\.nuget\\packages\\",
       "outputPath": "c:\\Users\\47518534819\\Desktop\\sistema_petshop\\Animalindo\\Pet\\Dominio\\obj\\",
+=======
+      "projectUniqueName": "c:\\Users\\lucas_8ymmky\\Desktop\\Projetos\\Animalindo\\Pet\\Dominio\\Dominio.csproj",
+      "projectName": "Dominio",
+      "projectPath": "c:\\Users\\lucas_8ymmky\\Desktop\\Projetos\\Animalindo\\Pet\\Dominio\\Dominio.csproj",
+      "packagesPath": "C:\\Users\\lucas_8ymmky\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\lucas_8ymmky\\Desktop\\Projetos\\Animalindo\\Pet\\Dominio\\obj\\",
+>>>>>>> 0fbddd6ca0436c288cf3b4c6d31f1b63599960d8
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\47518534819\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+        "C:\\Users\\lucas_8ymmky\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 0fbddd6ca0436c288cf3b4c6d31f1b63599960d8
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -203,7 +235,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "c:\\Users\\lucas_8ymmky\\Desktop\\Projetos\\Animalindo\\Pet\\util\\util.csproj": {
+              "projectPath": "c:\\Users\\lucas_8ymmky\\Desktop\\Projetos\\Animalindo\\Pet\\util\\util.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
