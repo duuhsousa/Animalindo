@@ -178,7 +178,11 @@
   },
   "packageFolders": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\47518534819\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\lucas_8ymmky\\.nuget\\packages\\": {},
+>>>>>>> 0fbddd6ca0436c288cf3b4c6d31f1b63599960d8
 =======
     "C:\\Users\\lucas_8ymmky\\.nuget\\packages\\": {},
 >>>>>>> 0fbddd6ca0436c288cf3b4c6d31f1b63599960d8
@@ -188,17 +192,23 @@
     "version": "1.0.0",
     "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "projectUniqueName": "c:\\Users\\47518534819\\Desktop\\sistema_petshop\\Animalindo\\Pet\\Util\\Util.csproj",
       "projectName": "Util",
       "projectPath": "c:\\Users\\47518534819\\Desktop\\sistema_petshop\\Animalindo\\Pet\\Util\\Util.csproj",
       "packagesPath": "C:\\Users\\47518534819\\.nuget\\packages\\",
       "outputPath": "c:\\Users\\47518534819\\Desktop\\sistema_petshop\\Animalindo\\Pet\\Util\\obj\\",
 =======
+=======
+>>>>>>> 0fbddd6ca0436c288cf3b4c6d31f1b63599960d8
       "projectUniqueName": "c:\\Users\\lucas_8ymmky\\Desktop\\Projetos\\Animalindo\\Pet\\util\\util.csproj",
       "projectName": "util",
       "projectPath": "c:\\Users\\lucas_8ymmky\\Desktop\\Projetos\\Animalindo\\Pet\\util\\util.csproj",
       "packagesPath": "C:\\Users\\lucas_8ymmky\\.nuget\\packages\\",
       "outputPath": "c:\\Users\\lucas_8ymmky\\Desktop\\Projetos\\Animalindo\\Pet\\util\\obj\\",
+<<<<<<< HEAD
+>>>>>>> 0fbddd6ca0436c288cf3b4c6d31f1b63599960d8
+=======
 >>>>>>> 0fbddd6ca0436c288cf3b4c6d31f1b63599960d8
       "projectStyle": "PackageReference",
       "fallbackFolders": [
@@ -206,7 +216,11 @@
       ],
       "configFilePaths": [
 <<<<<<< HEAD
+<<<<<<< HEAD
         "C:\\Users\\47518534819\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+        "C:\\Users\\lucas_8ymmky\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 0fbddd6ca0436c288cf3b4c6d31f1b63599960d8
 =======
         "C:\\Users\\lucas_8ymmky\\AppData\\Roaming\\NuGet\\NuGet.Config"
 >>>>>>> 0fbddd6ca0436c288cf3b4c6d31f1b63599960d8
