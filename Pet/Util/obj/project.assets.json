@@ -177,23 +177,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\43692939876\\.nuget\\packages\\": {},
+    "C:\\Users\\lucas_8ymmky\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\43692939876\\Desktop\\Projetos\\Animalindo\\Pet\\Util\\Util.csproj",
-      "projectName": "Util",
-      "projectPath": "c:\\Users\\43692939876\\Desktop\\Projetos\\Animalindo\\Pet\\Util\\Util.csproj",
-      "packagesPath": "C:\\Users\\43692939876\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\43692939876\\Desktop\\Projetos\\Animalindo\\Pet\\Util\\obj\\",
+      "projectUniqueName": "c:\\Users\\lucas_8ymmky\\Desktop\\Projetos\\Animalindo\\Pet\\util\\util.csproj",
+      "projectName": "util",
+      "projectPath": "c:\\Users\\lucas_8ymmky\\Desktop\\Projetos\\Animalindo\\Pet\\util\\util.csproj",
+      "packagesPath": "C:\\Users\\lucas_8ymmky\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\lucas_8ymmky\\Desktop\\Projetos\\Animalindo\\Pet\\util\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\43692939876\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\lucas_8ymmky\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
