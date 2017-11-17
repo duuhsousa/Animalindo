@@ -1,6 +1,4 @@
 ﻿using System;
-using Repositorio;
-using Dominio;
 
 namespace ProjetoConsole
 {
@@ -8,6 +6,7 @@ namespace ProjetoConsole
     {
         static void Main(string[] args)
         {
+
             //============================================LÓGICA DO CADASTRO DE ANIMAIS==========================================================
             Console.WriteLine("Bem-vindo ao cadastrado de animais");
             Console.Write("\nDigite qual animal você deseja cadastrar: "); string tipo = Console.ReadLine();
@@ -42,4 +41,3 @@ namespace ProjetoConsole
         }
     }
 }
-
