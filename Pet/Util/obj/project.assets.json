@@ -177,23 +177,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\41346828865\\.nuget\\packages\\": {},
+    "C:\\Users\\jessi\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\41346828865\\backend\\Animalindo\\pet\\Util\\Util.csproj",
+      "projectUniqueName": "c:\\Users\\jessi\\Animalindo\\Pet\\Util\\Util.csproj",
       "projectName": "Util",
-      "projectPath": "C:\\Users\\41346828865\\backend\\Animalindo\\pet\\Util\\Util.csproj",
-      "packagesPath": "C:\\Users\\41346828865\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\41346828865\\backend\\Animalindo\\pet\\Util\\obj\\",
+      "projectPath": "c:\\Users\\jessi\\Animalindo\\Pet\\Util\\Util.csproj",
+      "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\jessi\\Animalindo\\Pet\\Util\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\41346828865\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jessi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
