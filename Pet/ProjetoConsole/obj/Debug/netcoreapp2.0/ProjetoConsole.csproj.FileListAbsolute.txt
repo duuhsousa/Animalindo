@@ -1,0 +1,3 @@
+c:\Users\31049529812\backend\Animalindo\Pet\ProjetoConsole\obj\Debug\netcoreapp2.0\ProjetoConsole.csproj.CoreCompileInputs.cache
+c:\Users\31049529812\backend\Animalindo\Pet\ProjetoConsole\obj\Debug\netcoreapp2.0\ProjetoConsole.AssemblyInfoInputs.cache
+c:\Users\31049529812\backend\Animalindo\Pet\ProjetoConsole\obj\Debug\netcoreapp2.0\ProjetoConsole.AssemblyInfo.cs
