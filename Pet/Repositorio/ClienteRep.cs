@@ -1,15 +1,15 @@
-namespace Pet.Repositorio
+namespace Repositorio
 {
     public class ClienteRep : Dominio.ICrud
     {
-        public string Cadastrar()
+        public bool Cadastrar()
         {
-            throw new System.NotImplementedException();
+            return false;
         }
 
-        public string Consultar()
+        public string Consultar(string ID)
         {
-            throw new System.NotImplementedException();
+            return null;
         }
     }
 }

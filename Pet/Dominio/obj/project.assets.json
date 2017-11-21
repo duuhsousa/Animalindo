@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "util/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/util.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/util.dll": {}
+        }
       }
     }
   },
@@ -169,20 +179,20 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "util/1.0.0": {
+      "type": "project",
+      "path": "../util/util.csproj",
+      "msbuildProject": "../util/util.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.0"
+      "NETStandard.Library >= 2.0.0",
+      "util >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jessi\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
-  },
-  "project": {
-    "version": "1.0.0",
-    "restore": {
       "projectUniqueName": "c:\\Users\\jessi\\Animalindo\\Pet\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
       "projectPath": "c:\\Users\\jessi\\Animalindo\\Pet\\Dominio\\Dominio.csproj",
@@ -193,7 +203,6 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\jessi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -203,7 +212,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "c:\\Users\\lucas_8ymmky\\Desktop\\Projetos\\Animalindo\\Pet\\util\\util.csproj": {
+              "projectPath": "c:\\Users\\lucas_8ymmky\\Desktop\\Projetos\\Animalindo\\Pet\\util\\util.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
